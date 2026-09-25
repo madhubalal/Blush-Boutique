@@ -58,8 +58,8 @@ a{text-decoration:none;color:inherit}
 .project-image{height:280px;display:grid;place-items:center;color:white;font-family:"Playfair Display";font-size:32px;text-align:center;letter-spacing:3px;position:relative;overflow:hidden}
 .project-image:after,.portfolio-img:after{content:"";position:absolute;inset:0;background:linear-gradient(120deg,transparent,rgba(255,255,255,.15),transparent)}
 
-.image-party{background-image:url("party-wear.jpg");background-size:cover;background-position:center 60%}
-.image-designer{background-image:url("designer-gown.webp");background-size:cover;background-position:center 60%}
+.image-party{background-image:url("party-wear.jpg");background-size:cover;background-position:center 10%}
+.image-designer{background-image:url("designer-gown.webp");background-size:cover;background-position:center 70%}
 .image-bridesmaid{background-image:url("bridesmaid-dress.jfif");background-size:cover;background-position:center}
 .image-engagement{background-image:url("engagement-dress.webp");background-size:cover;background-position:center}
 .image-mirror{background-image:url("mirror-work-gown.webp");background-size:cover;background-position:center}
