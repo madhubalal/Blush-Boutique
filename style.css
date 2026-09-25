@@ -73,10 +73,10 @@ a{text-decoration:none;color:inherit}
 .portfolio-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:25px}
 .portfolio-img{height:290px;position:relative}
 
-.p1{background-image:url("women-fashion.jpg");background-size:cover;background-position:center 10%}
-.p2{background-image:url("men-fashion.webp");background-size:cover;background-position:center}
-.p3{background-image:url("kids-fashion.jpg");background-size:cover;background-position:center}
-.p4{background-image:url("occasion-wear.jfif");background-size:cover;background-position:center}
+.p1{background-image:url("women-fashion.jpg");background-size:cover;background-position:center 20%}
+.p2{background-image:url("men-fashion.webp");background-size:cover;background-position:center 20%}
+.p3{background-image:url("kids-fashion.jpg");background-size:cover;background-position:center 20%}
+.p4{background-image:url("occasion-wear.jfif");background-size:cover;background-position:center 20%}
 
 .portfolio-item h3{font-family:"Playfair Display";font-size:22px;margin:15px 0 3px}
 .portfolio-item h3{font-family:"Playfair Display";font-size:22px;margin:15px 0 3px}
