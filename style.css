@@ -61,8 +61,8 @@ a{text-decoration:none;color:inherit}
 .image-party{background-image:url("party-wear.jpg");background-size:cover;background-position:center 10%}
 .image-designer{background-image:url("designer-gown.webp");background-size:cover;background-position:center 10%}
 .image-bridesmaid{background-image:url("bridesmaid-dress.jfif");background-size:cover;background-position:center}
-.image-engagement{background-image:url("engagement-dress.webp");background-size:cover;background-position:center 10%}
-.image-mirror{background-image:url("mirror-work-gown.webp");background-size:cover;background-position:center 10%}
+.image-engagement{background-image:url("engagement-dress.webp");background-size:cover;background-position:center 5%}
+.image-mirror{background-image:url("mirror-work-gown.webp");background-size:cover;background-position:center 5%}
 .project-body{padding:24px}
 .project-body small,.portfolio-item small,.person small{font-size:10px;letter-spacing:2px;color:#9b7280}
 .project-body h3{font-family:"Playfair Display";font-size:24px;margin:8px 0}
