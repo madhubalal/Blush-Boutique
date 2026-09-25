@@ -59,10 +59,10 @@ a{text-decoration:none;color:inherit}
 .project-image:after,.portfolio-img:after{content:"";position:absolute;inset:0;background:linear-gradient(120deg,transparent,rgba(255,255,255,.15),transparent)}
 
 .image-party{background-image:url("party-wear.jpg");background-size:cover;background-position:center}
-.image-designer{background-image:url("designer-gown.jpg");background-size:cover;background-position:center}
-.image-bridesmaid{background-image:url("bridesmaid-dress.jpg");background-size:cover;background-position:center}
-.image-engagement{background-image:url("engagement-dress.jpg");background-size:cover;background-position:center}
-.image-mirror{background-image:url("mirror-work-gown.jpg");background-size:cover;background-position:center}
+.image-designer{background-image:url("designer-gown.webp");background-size:cover;background-position:center}
+.image-bridesmaid{background-image:url("bridesmaid-dress.jfif");background-size:cover;background-position:center}
+.image-engagement{background-image:url("engagement-dress.webp");background-size:cover;background-position:center}
+.image-mirror{background-image:url("mirror-work-gown.webp");background-size:cover;background-position:center}
 .project-body{padding:24px}
 .project-body small,.portfolio-item small,.person small{font-size:10px;letter-spacing:2px;color:#9b7280}
 .project-body h3{font-family:"Playfair Display";font-size:24px;margin:8px 0}
