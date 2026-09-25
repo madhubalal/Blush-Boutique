@@ -58,13 +58,11 @@ a{text-decoration:none;color:inherit}
 .project-image{height:280px;display:grid;place-items:center;color:white;font-family:"Playfair Display";font-size:32px;text-align:center;letter-spacing:3px;position:relative;overflow:hidden}
 .project-image:after,.portfolio-img:after{content:"";position:absolute;inset:0;background:linear-gradient(120deg,transparent,rgba(255,255,255,.15),transparent)}
 
-.image-green{background:linear-gradient(135deg,#7d5362,#d6aeb9 55%,#5d3e4b)}
-.image-glass{background:linear-gradient(135deg,#5d4650,#c99da9,#ead6da)}
-.image-land{background:linear-gradient(135deg,#a96e80,#e4bdc7,#72505d)}
-.image-home{background:linear-gradient(135deg,#8b596a,#d8a9b7,#65434f)}
-.image-city{background:linear-gradient(135deg,#59414b,#b78696,#47333c)}
-.image-residence{background:linear-gradient(135deg,#9a6877,#e0b9c3,#674550)}
-
+.image-party{background-image:url("party-wear.jpg");background-size:cover;background-position:center}
+.image-designer{background-image:url("designer-gown.jpg");background-size:cover;background-position:center}
+.image-bridesmaid{background-image:url("bridesmaid-dress.jpg");background-size:cover;background-position:center}
+.image-engagement{background-image:url("engagement-dress.jpg");background-size:cover;background-position:center}
+.image-mirror{background-image:url("mirror-work-gown.jpg");background-size:cover;background-position:center}
 .project-body{padding:24px}
 .project-body small,.portfolio-item small,.person small{font-size:10px;letter-spacing:2px;color:#9b7280}
 .project-body h3{font-family:"Playfair Display";font-size:24px;margin:8px 0}
